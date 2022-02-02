@@ -51,3 +51,9 @@ table {
   width: 80%;
   margin: auto;
 }
+
+.mat-card {
+  width: 250px;
+  margin: auto;
+  margin-top: 20px;
+}
